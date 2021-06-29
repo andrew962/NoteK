@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas++</string>
+    <string name="newNote">Nueva nota</string>
+    <string name="newNoteTitle">Título</string>
+    <string name="message">Mensaje</string>
+    <string name="todo">TODO</string>
+    <string name="btnSave">Guardar</string>
+
+</resources>

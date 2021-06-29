@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes++</string>
+    <string name="newNote">New note</string>
+    <string name="newNoteTitle">Title</string>
+    <string name="message">Message</string>
+    <string name="todo">TODO</string>
+    <string name="btnSave">Save</string>
+
+</resources>
